@@ -1,4 +1,4 @@
-# Rosa Classic public with BYO VPC\IAM\OIDC
+# Rosa Classic public with BYOVPC+IAM+OIDC
 
 ## Introduction
 
